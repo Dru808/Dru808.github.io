@@ -31,7 +31,11 @@ h2{font-size:18px;height:30px}
 }
 
 .field {
-  margin-right: 40px;
+  padding-right: 40px;
+  margin-right: 0;
+  flex: 0 0 33%;
+  box-sizing: border-box;
+
 }
 
 .contact {
