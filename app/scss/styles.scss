@@ -68,13 +68,33 @@ h2 {
 }
 
 .flex-it {
+  background-color: red;
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
-  height: 770px;
+  height: 528px;
+
 }
 
 .field {
   display: inline-flex;
   flex-direction: column;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.field li {
+  font-size: 10px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.field h3 {
+  font-size: 16px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+#andrew-tram {
+  margin-top: -20px;
 }
