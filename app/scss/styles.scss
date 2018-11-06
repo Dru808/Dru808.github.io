@@ -59,3 +59,22 @@ h2 {
   width: 90%;
 
 }
+
+#no-bull li {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+
+}
+
+.flex-it {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  height: 770px;
+}
+
+.field {
+  display: inline-flex;
+  flex-direction: column;
+}

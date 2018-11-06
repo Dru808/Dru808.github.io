@@ -1,8 +1,8 @@
 # Andrew Tram
 
-- 95-188 Kipapa Dr. Mililani, HI 96789
+- 95-210 Kaukini Place, Mililani, HI 96789
 - cell: (808) 753-2932
-- email: andrew.tram@yahoo.com
+- email: andrewtram808@gmail.com
 - github: [https://github.com/Dru808](https://github.com/Dru808)
 - linkedin: [https://www.linkedin.com/in/andrew-tram-2142a6133/](https://www.linkedin.com/in/andrew-tram-2142a6133/)
 
@@ -34,7 +34,7 @@ The Kanban Board was an assignment given out by the instructors at Dev League. A
 
 ### Manager
 #### Ba-Le, Mililani, HI
-##### 2016 – Present
+##### 2016 – 2018
 
 - Train new hires on the etiquettes of customer service to provide a warm and family style dining experience.
 - Conduct interviews for new hires. Being selective in the process to ensure the employee will be a good fit to avoid unnecessary cost of turnover and restaffing.
