@@ -1,1 +1,100 @@
-h1,h2{text-transform:uppercase}.header,h2{width:100%}.column-container,.content-container,.header,.info-content,.info-icons,.page-container{box-sizing:border-box}.field,.field h3,.field li{margin-top:0;margin-bottom:0}html *{font-family:'PT Sans',sans-serif}h1{font-size:34px;text-align:center}h2{font-size:18px;height:30px}.page-container{display:flex;border:10px solid green;flex-wrap:wrap}.header{border:10px solid red}.column-container{border:10px solid #00f;width:30%;display:flex;flex-wrap:wrap;align-content:flex-start}.content-container{border:10px solid #ff0;width:70%}.info-icons{border:10px solid red;width:10%}.info-content{border:10px solid green;width:90%}#no-bull li{list-style:none;display:flex;justify-content:center}.flex-it{background-color:red;display:flex;flex-direction:column;flex-wrap:wrap;height:528px}.field{display:inline-flex;flex-direction:column}.field li{font-size:10px}.field h3{font-size:16px}#andrew-tram{margin-top:-20px}
+html *
+{
+  font-family: 'PT Sans', sans-serif;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-size: 34px;
+  text-align: center;
+
+}
+
+h2 {
+  text-transform: uppercase;
+  font-size: 18px;
+  width: 100%;
+  height: 30px;
+
+}
+
+.page-container {
+  display: flex;
+  border: 10px solid green;
+  box-sizing: border-box;
+  flex-wrap: wrap;
+}
+
+.header {
+  border: 10px solid red;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.column-container {
+  border: 10px solid blue;
+  box-sizing: border-box;
+  width: 30%;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+}
+
+.content-container {
+  box-sizing: border-box;
+  border: 10px solid yellow;
+  width: 70%;
+}
+
+.info-icons {
+  border: 10px solid red;
+  box-sizing: border-box;
+  width: 10%;
+
+}
+
+.info-content {
+  border: 10px solid green;
+  box-sizing: border-box;
+  width: 90%;
+
+}
+
+#no-bull li {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+
+}
+
+.flex-it {
+  background-color: red;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  height: 528px;
+
+}
+
+.field {
+  display: inline-flex;
+  flex-direction: column;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.field li {
+  font-size: 10px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.field h3 {
+  font-size: 16px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+#andrew-tram {
+  margin-top: -20px;
+}
