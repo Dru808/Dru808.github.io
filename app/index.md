@@ -42,6 +42,7 @@ The Kanban Board was an assignment given out by the instructors at Dev League. A
 - Adjusting prices of the menu to reflect the rising food costs.
 
 
+
 ## Education
 ### DevLeague
 Dev League is an intense 3 months coding bootcamp that will train a person with no coding experience and turn them into a full stack developer. What is required to be successful in this tough environment is motivation, determination, and the ability to learn new skills at an insanely rapid pace.
@@ -100,3 +101,4 @@ Dev League is an intense 3 months coding bootcamp that will train a person with 
 - Adobe Photoshop CS6
 - Adobe Illustrator CS6
 - Google AdWords
+
