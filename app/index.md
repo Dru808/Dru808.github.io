@@ -32,21 +32,20 @@ The Kanban Board was an assignment given out by the instructors at Dev League. A
 
 ## Professional Experience
 
-### Manager
-#### Ba-Le, Mililani, HI
-##### 2016 – 2018
+### Auditor II
+#### Hansen, Pearl City, HI
+##### Jan. 2019 – Present
 
-- Train new hires on the etiquettes of customer service to provide a warm and family style dining experience.
-- Conduct interviews for new hires. Being selective in the process to ensure the employee will be a good fit to avoid unnecessary cost of turnover and restaffing.
-- Keep track of and reorder food inventories on a daily basis to ensure our breads and vegetables are fresh. Reorder meats and supplies as needed.
-- Adjusting prices of the menu to reflect the rising food costs.
-
-
+- Check products to ensure accuracy of the order selectors
+- Replace product if an error is found
+- Tally and log all audits and errors on daily report
+- Print and verify audits routes
+- Communicate with warehouse employees and work with each other to ensure the right product gets onto the right truck in the case there are discrepancies
 
 ## Education
 ### DevLeague
-Dev League is an intense 3 months coding bootcamp that will train a person with no coding experience and turn them into a full stack developer. What is required to be successful in this tough environment is motivation, determination, and the ability to learn new skills at an insanely rapid pace.
 ##### March - June 2017
+Dev League is an intense 3 months coding bootcamp that will train a person with no coding experience and turn them into a full stack developer. What is required to be successful in this tough environment is motivation, determination, and the ability to learn new skills at an insanely rapid pace.
 
 ### Associate of Science in Business Managment
 #### Cumulative GPA: 3.95
